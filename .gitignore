@@ -5,10 +5,11 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-Database
-hashmapDB
-build.xml
-manifest.mf
+
+keyValueDB/Database
+keyValueDB/hashmapDB
+keyValueDB/build.xml
+keyValueDB/manifest.mf
 *.DS_Store
 # Compiled class file
 *.class
